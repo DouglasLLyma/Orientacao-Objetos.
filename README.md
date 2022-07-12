@@ -1,2 +1,2 @@
-# Orienta-o-Objetos.
+# Orientação à Objetos.
 Conceitos de orientação à objetos.
